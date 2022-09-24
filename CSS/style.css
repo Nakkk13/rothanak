@@ -136,6 +136,12 @@ img{
   .input_e,.btn_e{
     min-width: 100%;
   }
+    .sa,.p1{
+        font-size: 10px;
+  }
+   .p2{
+        font-size: 13px;
+   }  
      
 }
 
